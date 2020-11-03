@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * 여기에 SouthPanel 클래스 설명을 작성하십시오.
+ * BorderLayout의 South UI를 설정해주는 클래스
  * 
  * @author (2019315020 오성빈, 2018210032 김태영) 
  * @version (2020.11.03)
